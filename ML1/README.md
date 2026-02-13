@@ -1,5 +1,5 @@
 
-# ML1 — Классификация (Online Shoppers Intention)
+# ML1 - Классификация (Online Shoppers Intention)
 
 ## Структура репозитория
 - `research.ipynb` - ноутбук с исследованием, предобработкой и моделями
