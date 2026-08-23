@@ -1,0 +1,4 @@
+﻿Вариант,GradientBoosting,LogReg,RandomForest
+A. Исходные признаки,0.8647,0.9089,0.8881
+B. + Feature Engineering,0.8535,0.9044,0.8667
+C. FE без ca/thal (скрининг),0.7979,0.8477,0.8115
